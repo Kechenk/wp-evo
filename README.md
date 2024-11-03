@@ -1,6 +1,6 @@
-# wp-evo
-# wp-evo
-# wp-evo
-# wp-evo
-# wp-evo
-# wp-evo
+# wp-evo 
+
+IDK how I tell you about this.
+I felet bad 'bout this but the security is bad and this is written in bad condition
+
+Pardon me 
