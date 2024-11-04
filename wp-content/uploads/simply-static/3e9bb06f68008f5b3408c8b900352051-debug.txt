@@ -1,0 +1,770 @@
+[2024-11-04 11:30:21] [class-ss-archive-creation-job.php:112] Not starting; we're already in the middle of a job
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 69738 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04d30894-97qnXL.tmp
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2021/06/footer-bg.png
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 69738 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2021/06/menu-bg.jpg
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 777
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04d3ebbb-rll8Cq.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2021/06/menu-bg.jpg?simply_static_page=776
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2021/06/menu-bg.jpg?simply_static_page=776
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 69751 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04d87fad-DRbb5G.tmp
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2021/06/menu-bg.jpg
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 69751 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1.webp
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 777
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04d920e9-m0N22G.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1.webp?simply_static_page=777
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1.webp?simply_static_page=777
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 286364 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Background-1.webp
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04d920e9-m0N22G.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Background-1.webp
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:87457aea82646acfd3bf3aa600a9b6bc5c1159e3===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 750 of 777 pages/files
+[2024-11-04 11:30:21] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-11-04 11:30:21] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-11-04 11:30:21] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:69] Total pages: 813; Pages remaining: 36
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.eot
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04d9d5f6-FlYeLc.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.eot?simply_static_page=778
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.eot?simply_static_page=778
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 2004 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.eot
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04d9d5f6-FlYeLc.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.eot
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:db342e1430cbccf77a3f2dd999addabca38a73ff===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.svg
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04da6cd0-OCJfFR.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.svg?simply_static_page=779
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.svg?simply_static_page=779
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 3290 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.svg
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04da6cd0-OCJfFR.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.svg
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:8a27012110ce86aa39cddf6960e8b50e00b53375===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.ttf
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04db155d-lsmeNP.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.ttf?simply_static_page=780
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.ttf?simply_static_page=780
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 1852 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.ttf
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04db155d-lsmeNP.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.ttf
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:355d3704213ec3da0dc680851994e5cbe0505c21===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.woff
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04dbfe8d-6cYxML.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.woff?simply_static_page=781
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.woff?simply_static_page=781
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 1796 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.woff
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04dbfe8d-6cYxML.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/raty/font/raty.woff
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:b2735a8fa0907916c722a4f022e14078447d9869===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.eot
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04dc93fc-f6ZnDW.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.eot?simply_static_page=782
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.eot?simply_static_page=782
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 121036 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.eot
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04dc93fc-f6ZnDW.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.eot
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:72b24f245d6746f63000100742da9406ef850b01===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04dde036-F7Y29N.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff?simply_static_page=783
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff?simply_static_page=783
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:103] Filesize: 68060 bytes
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04dde036-F7Y29N.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.woff
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:21] [class-ss-page.php:119] Checking Content Identical:9ba4bf64c6450f6726dc6542965e46db554f3290===. Value: FALSE
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.ttf
+[2024-11-04 11:30:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 813
+[2024-11-04 11:30:21] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04dec0df-zCHti6.tmp
+[2024-11-04 11:30:21] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.ttf?simply_static_page=784
+[2024-11-04 11:30:21] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.ttf?simply_static_page=784
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 188724 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04dec0df-zCHti6.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.ttf
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:a7f729edc4624182c4274b40ec83f524459978ed===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.svg
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e0b74b-sdHdzE.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.svg?simply_static_page=785
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.svg?simply_static_page=785
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 334283 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.svg
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e0b74b-sdHdzE.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/ionicons.svg
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:b61b471bfca84eb7f895df65d8f25afa99aa51c7===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.eot
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e2b200-9gVngU.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.eot?simply_static_page=786
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.eot?simply_static_page=786
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 165742 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.eot
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e2b200-9gVngU.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.eot
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:d980c2ce873dc43af460d4d572d441304499f400===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e36f70-kj8NSL.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff?simply_static_page=787
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff?simply_static_page=787
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 98024 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/font-woff
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e36f70-kj8NSL.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:28b782240b3e76db824e12c02754a9731a167527===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.ttf
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e43144-9Rn6rM.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.ttf?simply_static_page=788
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.ttf?simply_static_page=788
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 165548 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e43144-9Rn6rM.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.ttf
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:13b1eab65a983c7a73bc7997c479d66943f7c6cb===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.svg
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e52392-vE1LmT.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.svg?simply_static_page=789
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.svg?simply_static_page=789
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 444379 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.svg
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e52392-vE1LmT.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.svg
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e62f87-shNB8R.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2?simply_static_page=790
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2?simply_static_page=790
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 117860 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e62f87-shNB8R.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.woff2
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:9f3d49e97b87e6ef73aa1fca9dbab43461b16e37===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.ttf
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e6dd12-EVoTya.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.ttf?simply_static_page=791
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.ttf?simply_static_page=791
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 209128 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e6dd12-EVoTya.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-brands-400.ttf
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:cb01d68c4f91b1f4ccc862db2c9a197db82d4441===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e7f4f6-lzkYU0.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2?simply_static_page=792
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2?simply_static_page=792
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 25392 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e7f4f6-lzkYU0.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.woff2
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:9264632321be1ff41f42b1ce93916b6636517d8f===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.ttf
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e89524-borkCZ.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.ttf?simply_static_page=793
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.ttf?simply_static_page=793
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 67860 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e89524-borkCZ.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-regular-400.ttf
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:0a06c3df9867c147163a71977070dd87c6290467===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04e95a30-rjr4H2.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2?simply_static_page=794
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2?simply_static_page=794
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 156404 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04e95a30-rjr4H2.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.woff2
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:44c820d48d46be4bfa7961862e20f541419c5329===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.ttf
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04ea150f-jjSolq.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.ttf?simply_static_page=795
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.ttf?simply_static_page=795
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 420332 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/x-font-ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.ttf
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04ea150f-jjSolq.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/fontawesome/webfonts/fa-solid-900.ttf
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:4f8b7c61aeb77038546172e617cfe0683c88c5f7===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading.gif
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04eba4ec-tQyMDo.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading.gif?simply_static_page=796
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading.gif?simply_static_page=796
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 1412 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/img/loading.gif
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04eba4ec-tQyMDo.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/img/loading.gif
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:052e58fbae9ff24232b4945f59073306699e706c===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04ec6b44-VYiqox.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png?simply_static_page=797
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png?simply_static_page=797
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 8220 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04ec6b44-VYiqox.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_444444_256x240.png
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:07570418ac4e441e412d736c15590332fd92a1d8===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04ed79fe-7id8tU.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png?simply_static_page=798
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png?simply_static_page=798
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:103] Filesize: 8242 bytes
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04ed79fe-7id8tU.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_555555_256x240.png
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:22] [class-ss-page.php:119] Checking Content Identical:94ef0822209f8205b646f9b8447151ebe3525a77===. Value: FALSE
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png
+[2024-11-04 11:30:22] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 813
+[2024-11-04 11:30:22] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04ee8695-PyPrpg.tmp
+[2024-11-04 11:30:22] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png?simply_static_page=799
+[2024-11-04 11:30:22] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png?simply_static_page=799
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 7889 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04ee8695-PyPrpg.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_ffffff_256x240.png
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:e5e6dcb00a0e81c4ba41d078100c61651f941488===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04f08b51-Rx0Xla.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png?simply_static_page=800
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png?simply_static_page=800
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 4457 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04f08b51-Rx0Xla.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777620_256x240.png
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:332d6aea06b0e4226f0a253ecf018f6a5766263f===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04f1457f-3VGaQZ.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png?simply_static_page=801
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png?simply_static_page=801
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 4457 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04f1457f-3VGaQZ.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_cc0000_256x240.png
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:d4d01f6bdf2cecb523c9a79480c628c1411eb883===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04f242d8-iqDmOE.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png?simply_static_page=802
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png?simply_static_page=802
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 8284 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04f242d8-iqDmOE.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/images/ui-icons_777777_256x240.png
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:900a6758cd076c7834dd27ad9ddd32fcf8ebf9d5===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04f3229d-ImHIIT.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif?simply_static_page=803
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif?simply_static_page=803
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 1453 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/gif
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/plugins/ultimate-member/assets/img/loading-dots.gif
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04f3229d-ImHIIT.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:24711d1c0a7dd780330d459239f376c5cb45893c===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/register-solo/
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04f459fd-km0UDY.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/register-solo/?simply_static_page=804
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/register-solo/?simply_static_page=804
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 90697 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: register-solo/index.html
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04f459fd-km0UDY.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/register-solo/index.html
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 25 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:967951c798b243c57d5321a3324380852f87e087===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/registration/register-team/
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04fa1106-35jAxe.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/registration/register-team/?simply_static_page=805
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/registration/register-team/?simply_static_page=805
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:103] Filesize: 89310 bytes
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:233] New filename for static page: registration/register-team/index.html
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04fa1106-35jAxe.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/registration/register-team/index.html
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:159] Adding 22 URLs to the queue
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:23] [class-ss-page.php:119] Checking Content Identical:3cf76b25cef0caeb12600bda44c3cb7202c2e23f===. Value: FALSE
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/litespeed/css/e7762bb9f76a21a064b7c8d0e4855da9.css
+[2024-11-04 11:30:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 813
+[2024-11-04 11:30:23] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b04fefefc-jVISR1.tmp
+[2024-11-04 11:30:23] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/litespeed/css/e7762bb9f76a21a064b7c8d0e4855da9.css?simply_static_page=806
+[2024-11-04 11:30:23] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/litespeed/css/e7762bb9f76a21a064b7c8d0e4855da9.css?simply_static_page=806
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 768156 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/litespeed/css/e7762bb9f76a21a064b7c8d0e4855da9.css
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b04fefefc-jVISR1.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/litespeed/css/e7762bb9f76a21a064b7c8d0e4855da9.css
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 29 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:3d59f645526162f6502b2f8dd427d2546f1cdccc===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1821
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:79] Excludable found: URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/background-timeline-elecrtra-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05018636-5yJIrr.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/background-timeline-elecrtra-1024x725.png.webp?simply_static_page=808
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/background-timeline-elecrtra-1024x725.png.webp?simply_static_page=808
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 165118 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/background-timeline-elecrtra-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05018636-5yJIrr.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/background-timeline-elecrtra-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:4e4f71235a6242bc6a7e923836ba1b7d0eff3f39===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1-1024x728.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05022c79-59YEJw.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1-1024x728.webp?simply_static_page=809
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Background-1-1024x728.webp?simply_static_page=809
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 129858 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Background-1-1024x728.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05022c79-59YEJw.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Background-1-1024x728.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:d1c3da3c902c149144cc5ac289f205027c8135ec===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/11/Background-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05034fd5-ekepfI.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/11/Background-1024x725.png.webp?simply_static_page=810
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/11/Background-1024x725.png.webp?simply_static_page=810
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 165654 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/11/Background-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05034fd5-ekepfI.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/11/Background-1024x725.png.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:e8e86ee37cc4b73d750d6113ca0ddf1a786d0852===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/11/Group-100.png.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b050407f6-Z34G5j.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/11/Group-100.png.webp?simply_static_page=811
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/11/Group-100.png.webp?simply_static_page=811
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 4372 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/11/Group-100.png.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b050407f6-Z34G5j.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/11/Group-100.png.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:dbb5c269b9fdad0b3eafe444198be57e87566832===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2.jpg.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b0504b0b4-kYVQNX.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2.jpg.webp?simply_static_page=812
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2.jpg.webp?simply_static_page=812
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 322302 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Home-Page-2.jpg.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b0504b0b4-kYVQNX.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Home-Page-2.jpg.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:d92d50a8ce8ab752f9fd40cd8d533ef15b9b5137===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2-1024x672.jpg.webp
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 813
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b0505598f-RwcgBX.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2-1024x672.jpg.webp?simply_static_page=813
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Home-Page-2-1024x672.jpg.webp?simply_static_page=813
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 110608 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Home-Page-2-1024x672.jpg.webp
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b0505598f-RwcgBX.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Home-Page-2-1024x672.jpg.webp
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:fed05750c2f7df01f3a4874ccacd5828c6b06d50===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 777 of 813 pages/files
+[2024-11-04 11:30:24] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-11-04 11:30:24] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-11-04 11:30:24] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:69] Total pages: 821; Pages remaining: 8
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/author/rhaffle87gmail-com/
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b050606c6-2xACTf.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/author/rhaffle87gmail-com/?simply_static_page=814
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/author/rhaffle87gmail-com/?simply_static_page=814
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 302 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:204] redirect_url: https://evolution-its.my.id/user/rhaffle87gmail-com/
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:231] Redirect URL is on the same domain; adding the URL to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:243] Creating a redirect page
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: author/rhaffle87gmail-com/index.html
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:6beb5733b9f576806dea11c8f66d15d771a47ff8===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-login.php
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:79] Excludable found: URL: https://evolution-its.my.id/wp-login.php
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/litespeed/avatar/75d20117570de20107a8994adafd6dbd.jpg
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b050989a4-eIQEa9.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/litespeed/avatar/75d20117570de20107a8994adafd6dbd.jpg?simply_static_page=816
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/litespeed/avatar/75d20117570de20107a8994adafd6dbd.jpg?simply_static_page=816
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 850 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/litespeed/avatar/75d20117570de20107a8994adafd6dbd.jpg
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b050989a4-eIQEa9.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/litespeed/avatar/75d20117570de20107a8994adafd6dbd.jpg
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:b3a853dbc2a8215af5d5e3f356b901bbb91de830===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/registration/register-solo/
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b050ac5c4-dNGNrq.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/registration/register-solo/?simply_static_page=817
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/registration/register-solo/?simply_static_page=817
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:103] Filesize: 87219 bytes
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:233] New filename for static page: registration/register-solo/index.html
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b050ac5c4-dNGNrq.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/registration/register-solo/index.html
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:159] Adding 22 URLs to the queue
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:24] [class-ss-page.php:119] Checking Content Identical:3eb561de9ed694e3a12c40db8e04135d617faa42===. Value: FALSE
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/litespeed/css/22632c0d31ccb8657c0e0a7493cdbe63.css
+[2024-11-04 11:30:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 821
+[2024-11-04 11:30:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b050f1f88-lK1Ot1.tmp
+[2024-11-04 11:30:24] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/litespeed/css/22632c0d31ccb8657c0e0a7493cdbe63.css?simply_static_page=818
+[2024-11-04 11:30:24] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/litespeed/css/22632c0d31ccb8657c0e0a7493cdbe63.css?simply_static_page=818
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:103] Filesize: 765566 bytes
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/litespeed/css/22632c0d31ccb8657c0e0a7493cdbe63.css
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b050f1f88-lK1Ot1.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/litespeed/css/22632c0d31ccb8657c0e0a7493cdbe63.css
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:159] Adding 29 URLs to the queue
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:25] [class-ss-page.php:119] Checking Content Identical:b7a971a817be1f93e59d1bd69f5c887d8831f8cf===. Value: FALSE
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-json/wp/v2/pages/2189
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 821
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:79] Excludable found: URL: https://evolution-its.my.id/wp-json/wp/v2/pages/2189
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1798
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 821
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:79] Excludable found: URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1798
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154.png
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 821
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05112db0-suATiC.tmp
+[2024-11-04 11:30:25] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154.png?simply_static_page=821
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154.png?simply_static_page=821
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:103] Filesize: 334749 bytes
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Rectangle-154.png
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05112db0-suATiC.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Rectangle-154.png
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:25] [class-ss-page.php:119] Checking Content Identical:dab03a12f22a65d3fdc190317866df2189602530===. Value: FALSE
+[2024-11-04 11:30:25] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 813 of 821 pages/files
+[2024-11-04 11:30:25] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-11-04 11:30:25] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-11-04 11:30:25] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:69] Total pages: 824; Pages remaining: 3
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/user/rhaffle87gmail-com/
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 824
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05154170-ExmJzM.tmp
+[2024-11-04 11:30:25] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/user/rhaffle87gmail-com/?simply_static_page=822
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/user/rhaffle87gmail-com/?simply_static_page=822
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:103] Filesize: 78629 bytes
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:233] New filename for static page: user/rhaffle87gmail-com/index.html
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05154170-ExmJzM.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/user/rhaffle87gmail-com/index.html
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:159] Adding 24 URLs to the queue
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:25] [class-ss-page.php:119] Checking Content Identical:7827505d30b6ab1b57fffb6ed306814ccd9a3a51===. Value: FALSE
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/litespeed/ucss/07cc0fb272de48f362d05d24d0b30f17.css
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 824
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b051c5374-1DJsnM.tmp
+[2024-11-04 11:30:25] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/litespeed/ucss/07cc0fb272de48f362d05d24d0b30f17.css?simply_static_page=823
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/litespeed/ucss/07cc0fb272de48f362d05d24d0b30f17.css?simply_static_page=823
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:103] Filesize: 56445 bytes
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/litespeed/ucss/07cc0fb272de48f362d05d24d0b30f17.css
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b051c5374-1DJsnM.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/litespeed/ucss/07cc0fb272de48f362d05d24d0b30f17.css
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:159] Adding 20 URLs to the queue
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:25] [class-ss-page.php:119] Checking Content Identical:facbbe939d1d008c3ffcc0e50a6246d3098c913c===. Value: FALSE
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png
+[2024-11-04 11:30:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 824
+[2024-11-04 11:30:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b051d3694-jGGS89.tmp
+[2024-11-04 11:30:25] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png?simply_static_page=824
+[2024-11-04 11:30:25] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png?simply_static_page=824
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 153403 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Rectangle-154-1024x411.png
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b051d3694-jGGS89.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Rectangle-154-1024x411.png
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:5e6492bd24223680fc0d3b7642203112e3e5b1e8===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 821 of 824 pages/files
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:69] Total pages: 829; Pages remaining: 5
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/cover_photo.jpg
+[2024-11-04 11:30:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 829
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b0521315d-NEiKrI.tmp
+[2024-11-04 11:30:26] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/cover_photo.jpg?simply_static_page=825
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/cover_photo.jpg?simply_static_page=825
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 31821 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/ultimatemember/1/cover_photo.jpg
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b0521315d-NEiKrI.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/ultimatemember/1/cover_photo.jpg
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:9c4f37ed5bf6366894a7e92a2bf4dfcd58794421===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg
+[2024-11-04 11:30:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 829
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b052224db-FF3ikB.tmp
+[2024-11-04 11:30:26] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg?simply_static_page=826
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg?simply_static_page=826
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 6908 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b052224db-FF3ikB.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:8d2e6a983be9ec3ad5a40a7e9d06c8af606237e2===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/user/
+[2024-11-04 11:30:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 829
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b0522ea7f-QX7REX.tmp
+[2024-11-04 11:30:26] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/user/?simply_static_page=827
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/user/?simply_static_page=827
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 302 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:204] redirect_url: https://evolution-its.my.id
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:231] Redirect URL is on the same domain; adding the URL to the queue
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:243] Creating a redirect page
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: user/index.html
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:52ca8c0a90df07e4866e9961d41392c6f5ba6b4f===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1796
+[2024-11-04 11:30:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 829
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:79] Excludable found: URL: https://evolution-its.my.id/wp-json/wp/v2/pages/1796
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:72] URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png.webp
+[2024-11-04 11:30:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 829
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05250298-3oYXMu.tmp
+[2024-11-04 11:30:26] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png.webp?simply_static_page=829
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/wp-content/uploads/2024/10/Rectangle-154-1024x411.png.webp?simply_static_page=829
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 46084 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/webp
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: wp-content/uploads/2024/10/Rectangle-154-1024x411.png.webp
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05250298-3oYXMu.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/wp-content/uploads/2024/10/Rectangle-154-1024x411.png.webp
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:1b74034884d96bff2ca5ff23133381eb01297b78===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 824 of 829 pages/files
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-11-04 11:30:26] [class-ss-fetch-urls-task.php:69] Total pages: 829; Pages remaining: 0
+[2024-11-04 11:30:26] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 829 of 829 pages/files
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:175] We've found our next task: generate_404
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:136] Current task: generate_404
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:153] Performing task: generate_404
+[2024-11-04 11:30:26] [class-ss-task.php:44] Status message: [generate_404] Generating 404 Page.
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: /tmp/6728b05260c11-5xfaWI.tmp
+[2024-11-04 11:30:26] [class-ss-page-handler.php:38] URL Prepared:https://evolution-its.my.id/1730719827?simply_static_page=0
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:251] Fetching URL: https://evolution-its.my.id/1730719827?simply_static_page=0
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:103] Filesize: 69739 bytes
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:233] New filename for static page: 404/index.html
+[2024-11-04 11:30:26] [class-ss-url-fetcher.php:143] Renaming temp file from /tmp/6728b05260c11-5xfaWI.tmp to /home/u211132314/domains/evolution-its.my.id/public_html/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744/404/index.html
+[2024-11-04 11:30:26] [class-ss-generate-404-task.php:119] Replacing URLs in the static file
+[2024-11-04 11:30:26] [class-ss-generate-404-task.php:125] We're saving this URL; keeping the static file
+[2024-11-04 11:30:26] [class-ss-page.php:119] Checking Content Identical:951077163ad15b8c04f038cdb6e6060bd7565a05===. Value: FALSE
+[2024-11-04 11:30:26] [class-ss-task.php:44] Status message: [generate_404] 404 Page generated
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:175] We've found our next task: create_zip_archive
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:136] Current task: create_zip_archive
+[2024-11-04 11:30:26] [class-ss-archive-creation-job.php:153] Performing task: create_zip_archive
+[2024-11-04 11:30:26] [class-ss-create-zip-archive.php:78] Fetching list of files to include in zip
+[2024-11-04 11:30:26] [class-ss-create-zip-archive.php:87] Creating zip archive
+[2024-11-04 11:30:28] [class-ss-task.php:44] Status message: [create_zip_archive] ZIP archive created:  <a href="https://evolution-its.my.id/wp-content/uploads/simply-static/temp-files/simply-static-1-1730719744.zip">Click here to download</a>
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:175] We've found our next task: wrapup
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:136] Current task: wrapup
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:153] Performing task: wrapup
+[2024-11-04 11:30:28] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-11-04 11:30:28] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-11-04 11:30:28] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:01:24
